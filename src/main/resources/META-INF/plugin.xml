@@ -9,10 +9,6 @@
     <resource-bundle>messages.MyBundle</resource-bundle>
 
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow factoryClass="com.github.whwuhan.retrotheme.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>
+        <themeProvider id="com.github.whwuhan.retrotheme" path="/theme/RetroThemeDark.theme.json" />
     </extensions>
-
-    <applicationListeners>
-        <listener class="com.github.whwuhan.retrotheme.listeners.MyApplicationActivationListener" topic="com.intellij.openapi.application.ApplicationActivationListener"/>
-    </applicationListeners>
 </idea-plugin>

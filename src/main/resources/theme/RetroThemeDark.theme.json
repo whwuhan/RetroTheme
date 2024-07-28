@@ -1,0 +1,27 @@
+{
+  "name": "Retro Theme Dark",
+  "dark": true,
+  "author": "chesterwu",
+  "editorScheme": "theme/RetroThemeDark.xml",
+  "colors": {
+    "white":  "#FFFFFF",
+    "black":  "#000000",
+    "red":    "#FF0000",
+    "green":  "#00FF00",
+    "blue":   "#0000FF"
+  },
+  "ui": {
+    "Borders.color": "#000000",
+    "TitlePane.background": "#2b2d30",
+    "TitlePane.inactiveBackground": "#2b2d30",
+    "Menu.background" : "#2b2d30",
+    "Panel.background": "#2b2d30",
+    "Panel.foreground": "#bbbbbb",
+    "Editor.background": "#1e1f22",
+    "ScrollPane.background": "#1e1f22",
+    "Tree.background": "#2b2d30",
+    "Viewport.background": "#1e1f22",
+    "CheckBox.background": "#2b2d30",
+    "EditorTabs.background": "#1e1f22"
+  }
+}
