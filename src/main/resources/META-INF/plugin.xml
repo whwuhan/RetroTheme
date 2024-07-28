@@ -1,8 +1,8 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.github.whwuhan.retrotheme</id>
-    <name>RetroTheme</name>
-    <vendor>whwuhan</vendor>
+    <name>Retro Theme</name>
+    <vendor>chesterwu</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
