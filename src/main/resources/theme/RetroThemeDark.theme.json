@@ -12,6 +12,7 @@
   },
   "ui": {
     "Borders.color": "#000000",
+    "Button.background": "#2b2d30",
     "TitlePane.background": "#2b2d30",
     "TitlePane.inactiveBackground": "#2b2d30",
     "Menu.background" : "#2b2d30",
@@ -22,6 +23,9 @@
     "Tree.background": "#2b2d30",
     "Viewport.background": "#1e1f22",
     "CheckBox.background": "#2b2d30",
-    "EditorTabs.background": "#1e1f22"
+    "EditorTabs.background": "#1e1f22",
+    "Label.background": "#2b2d30",
+    "TextArea.background": "#2b2d30",
+    "ToolTip.background": "#2b2d30"
   }
 }
